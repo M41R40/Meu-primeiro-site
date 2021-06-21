@@ -1,2 +1,3 @@
 # M41R40.github.io
-Primeiro projeto 
+Primeiro projeto
+Estudo git e github iniciantes.
